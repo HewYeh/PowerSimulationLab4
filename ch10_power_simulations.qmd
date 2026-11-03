@@ -366,7 +366,7 @@ I have heard of a double the sample size rule and that already made me go ok tha
 
 2.  Why is this a better plan for a replication than powering on the original effect?
 
-The original effect may be unreliable.
+The original effect may be unreliable. With small pilot studies, the effect sizes may be variable and if you have a significant effect, you may be overestimating the effect size. Additionally, studies in the literature have an overestimated effect size because of publication bias (null results are hard to publish). As a result, these inflated effect sizes are going to make you think that you have a larger effect size and need less participants than you would actually need.
 
 
 3.  What are the possible conclusions if your replication is *not* significant? When can you say "the effect is too small for the original study to have detected" and when can you only say "inconclusive"? (Hint: picture the replication's 90% CI. Where can it fall relative to 0 and to d33?)
