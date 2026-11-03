@@ -1,10 +1,10 @@
 ---
 title: "Power and Sample Size Planning"
 subtitle: "PSYC 201A, Simulation Lab 4"
-author: "Your name here"
+author: "Hew Yeh"
 date: today
 format:
-  html:
+  pdf:
     toc: true
     embed-resources: true
 execute:
